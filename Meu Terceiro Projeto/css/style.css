@@ -1,20 +1,18 @@
 body{
-    background-color: #F5F4F0;
+    background-color: #F5F4F0;/*F5F4F0*/
     font-family: "Open Sans", sans-serif;
-    width: 0;
-    height: 0;
 
 }
 
-#page{
+#page {
     box-sizing: border-box;
     width: 1120px;
     padding: 24px;
-    background-color: #D9D9D9;
+    background-color: #49a454; /*#D9D9D9*/
     border-radius: 24px;
-    margin: auto;
-    padding: auto;
+    margin: 0 auto; 
 }
+
 
 
 
@@ -66,7 +64,6 @@ ol{
 
 #bomPara{
     font-size: 16px;
-    color: ;
 }
 ul{
     font-size: 16px;
